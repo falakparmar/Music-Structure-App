@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Music Structure App</string>
+    <string name="now_playing">This activity shows current song.</string>
+    <string name="track">This activity lists songs in library.</string>
+    <string name="artists">This activity shows the songs artist.</string>
+
+    <string name="s1">Hey Ram Hey Ram</string>
+    <string name="a1">Jangjeet Singh</string>
+
+    <string name="s2">Kisiki Muskurahatoon pe</string>
+    <string name="a2">Kishore</string>
+
+    <string name="s3">Shape Of You</string>
+    <string name="a3">Ed Sheeran</string>
+
+    <string name="s4">Kar har meedan Fateh</string>
+    <string name="a4">Sukhwinder Singh</string>
+
+    <string name="s5">Just One Night</string>
+    <string name="a5">Maroon5</string>
+
+    <string name="s6">Delhi 6</string>
+    <string name="a6">Mohit Chauhan</string>
+</resources>
